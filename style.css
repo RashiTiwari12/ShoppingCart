@@ -1,0 +1,47 @@
+.body{
+    display: flex;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+h1{
+    font-size: x-large;
+}
+.div-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(216, 229, 231);
+    height: 581px;
+}
+h3{
+    margin: 10px;
+}
+ol{
+    margin: 0px;
+}
+.p1{
+    font-weight: 600;
+}
+.div-box2{
+    display: flex;
+    flex-direction: row;
+}
+.input-box{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.add-to-cart{
+    border: solid 2px;
+    background-color: antiquewhite;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 6px;
+}
+.checkout{
+    border: solid 2px;
+    background-color: antiquewhite;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 6px;
+}
